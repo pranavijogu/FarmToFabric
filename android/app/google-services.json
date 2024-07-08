@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "586537575784",
+    "project_id": "phone-otp-20868",
+    "storage_bucket": "phone-otp-20868.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:586537575784:android:88abbc8003c671c13d22dd",
+        "android_client_info": {
+          "package_name": "com.example.flutter_application_1"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBCa28sUM0upFNFW8Q_pt9LbRRVCzaJt20"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
